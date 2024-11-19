@@ -1,0 +1,21 @@
+.candidatoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #7ebb96;
+  border-radius: 5px;
+  background-color: #a9dfbf;
+  margin-bottom: 10px;
+}
+
+.botaoVotar {
+  padding: 5px 10px;
+  font-size: 1em;
+  color: white;
+  background-color: #82c9a7;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
